@@ -11,7 +11,7 @@ from urllib.parse import urlparse, parse_qs
 from dotenv import load_dotenv
 import time
 
-# Page configuration with custom theme
+## Page configuration with custom theme
 st.set_page_config(
     page_title="AI Content Summarizer",
     page_icon="📚",
