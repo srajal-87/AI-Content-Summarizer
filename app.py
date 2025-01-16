@@ -19,7 +19,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS
+## Custom CSS
 st.markdown("""
     <style>
         .stApp {
